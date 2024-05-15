@@ -3,12 +3,6 @@
 
 This project is based on the findings of attrition ratios divided on three indetified fields. 
 
-
-# HR Survey Analysis Dashboard link
-
-### Dashboard Link: https://app.powerbi.com/groups/8bb600a6-52a9-4c17-bd03-fbaf92a61f49/lineage?experience=power-bi
-## Problem Statement
-
 This dashboard helps to uderstand the attrition ratio based on: 
         1. Attrition by demographics. 
         2. Attrition by Turnover Analysis
