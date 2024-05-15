@@ -2,12 +2,6 @@
 
 This project is based on analyzing the sales all accross the cities of United States. This project includes the weekly, month-to-month, city-wise analysis under the year 2019. 
 
-
-# Sales-Analysis Dashboard link
-
-### Dashboard Link: https://app.powerbi.com/groups/8bb600a6-52a9-4c17-bd03-fbaf92a61f49/lineage?experience=power-bi
-## Problem Statement
-
 This dashboard helps to uderstand the sales data all accross the US. It basically helps understanding the product selection of the customers, sales analysis of each products on montly as well as weekly selection basis including both single as well as multiple items. 
 
 This dashboard not only helps to gain insights of the business but also to identify the key areas, customer's preferences as well profit margin.
